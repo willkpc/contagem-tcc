@@ -81,7 +81,7 @@ Questão 5: Quais são suas opiniões sobre Street Fighter 6 como um jogo compet
 (16) Op. negativa sobre mecânicas.
 (2) Op. negativa sobre acessibilidade.
 (6) Op. negativa sobre integração na competitividade.
-(1) Op. neutra geral.
+(1) Op. negativa geral.
 
 
 Questões 8 e 9:
